@@ -1,0 +1,20 @@
+.button {
+  width: 100px;
+  height: 48px;
+}
+
+.primary {
+  background: #999
+}
+
+.secondary {
+  background: #777
+}
+
+.danger {
+  background: red
+}
+
+.success {
+  background: green
+}
